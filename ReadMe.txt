@@ -1,4 +1,4 @@
-#김준홍 국문 커버 레터#
+김준홍 국문 커버 레터
 
 https://junhong.000webhostapp.com/
 
