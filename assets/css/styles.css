@@ -8,8 +8,13 @@
 */
 /* styles.css */
 /* ======= Base ======= */
+@font-face {
+    font-family: "NotoSansCJKkr";
+    src: url("/fonts/NotoSansCJKkr-Regular.otf") format("opentype");
+}
+
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'NotoSansCJKkr', sans-serif;
   color: #545E6C;
   background: #f5f5f5;
   font-size: 14px;
